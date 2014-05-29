@@ -1,0 +1,7 @@
+﻿[
+  {"id": "1", "title": "Der Schwarm", "author": "Frank Schätzing", "isbn10": "3596164532", "price": 9.95 },
+  {"id": "2", "title": "Das Parfum", "author": "Patrick Süskind", "isbn10": "3257228007", "price": 10.90 },
+  {"id": "3", "title": "Faust. Der Tragödie Erster Teil", "author": "Johann Wolfgang Goethe", "isbn10": "3150191521", "price": 4.6 },
+  {"id": "4", "title": "Homo faber: Ein Bericht", "author": "Max Frisch", "isbn10": "3518368540", "price": 8 },
+  {"id": "5", "title": "Effi Briest", "author": "Theodor Fontane", "isbn10": "3150069610", "price": 4.6 }
+]
